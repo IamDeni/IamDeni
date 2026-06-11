@@ -1,37 +1,98 @@
-# Daniel Machado
+# 👋 Olá, eu sou Daniel Machado
 
-Olá! 👋 Eu sou o Daniel Machado, um entusiasta da tecnologia apaixonado por criar soluções inovadoras e explorar novas ideias. Atualmente, estou focado em Sistemas Operacionais e Segurança digital.
+### Desenvolvedor | Automação | Segurança Digital | Infraestrutura de TI
 
-## Sobre Mim
+Sou apaixonado por tecnologia e por transformar problemas em soluções práticas através da programação. Tenho experiência com desenvolvimento de aplicações, automação de processos e web scraping, além de atuar atualmente na área de infraestrutura de TI.
 
-- 🌍 Localização: Goiânia, Goiás, Brasil
-- 👨‍💻 Desenvolvedor Web, Webscrapping, empreendedor.
-- 🎓 Graduado em Sistemas de Informação
-- 💼 Atualmente trabalhando como estágiário em infraestrutura de TI na Empresa Brasilcenter Comunicações.
+Atualmente concentro meus estudos em Sistemas Operacionais, Segurança Digital e desenvolvimento de soluções que gerem impacto real para empresas e usuários.
 
-## Habilidades
+---
 
-- Linguagens de Programação: Python/Selenium, Java, C#, Javascript/NodeJS, SQL language
-- Tecnologias: NodeJS, Selenium, Jquery, .NET
-- Minha especialidade hoje é o webscrapping, com um projeto recente que fiz para a empresa da qual presto serviços como estagiário
+## 🚀 Sobre Mim
 
-## Projetos Principais
+* 📍 Goiânia, Goiás - Brasil
+* 💻 Desenvolvedor focado em automação e soluções web
+* 🔍 Especialista em Web Scraping e coleta automatizada de dados
+* 🛡️ Estudando Sistemas Operacionais e Segurança Digital
+* 🏢 Estagiário de Infraestrutura de TI na BrasilCenter Comunicações
+* 🎓 Graduado em Sistemas de Informação
 
-Aqui estão alguns dos meus projetos destacados:
+---
 
-### GCJDIGITAL
+## 🛠️ Tecnologias e Ferramentas
 
-GCJDigital é um blog de noticias contruido do 0, feito somente por uma pessoa(eu), foi meu primeiro projeto no qual inseri um banco de dados. 
+### Linguagens
 
-### Almass
+* Python
+* Java
+* C#
+* JavaScript
+* SQL
 
-Almass é a abreviação para "Alerta de Massivo". 
-É uma aplicação feita em python, que tem como objetivo alertar os técnicos da área de suporte da empresa quando um chamado categorizado massivo, cair na fila de atendimento na plataforma de helpdesk.
+### Frameworks e Tecnologias
 
-## Contato
+* Selenium
+* Node.js
+* .NET
+* jQuery
+* Git & GitHub
 
-- LinkedIn: www.linkedin.com/in/daniel-machado-8a17712a1
-- Website: https://portfoliodeni.web.app/
-- Email: daniel.dmachado2854@protonmail.com
+### Áreas de Interesse
 
-Sinta-se à vontade para explorar meus repositórios e projetos! Se tiver alguma pergunta ou quiser trocar ideias, não hesite em entrar em contato.
+* Segurança Digital
+* Infraestrutura de TI
+* Automação de Processos
+* Web Scraping
+* Sistemas Operacionais
+* Desenvolvimento de Software
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🚨 Almass — Alerta de Massivo
+
+Sistema desenvolvido em Python para monitoramento de chamados corporativos.
+
+A aplicação identifica automaticamente chamados categorizados como massivos dentro da plataforma de Help Desk e envia alertas aos técnicos responsáveis, reduzindo o tempo de resposta e aumentando a eficiência operacional da equipe de suporte.
+
+**Tecnologias utilizadas:**
+
+* Python
+* Selenium
+* Automação de Processos
+
+---
+
+### 📰 GCJDigital
+
+Portal de notícias desenvolvido integralmente por mim.
+
+Este foi meu primeiro projeto completo utilizando banco de dados, permitindo gerenciamento dinâmico de conteúdo, publicação de notícias e estruturação de informações de forma escalável.
+
+**Tecnologias utilizadas:**
+
+* Desenvolvimento Web
+* Banco de Dados
+* JavaScript
+
+---
+
+## 📈 Objetivos Atuais
+
+* Aprimorar conhecimentos em Segurança Digital
+* Aprofundar estudos em Sistemas Operacionais
+* Expandir meu portfólio de projetos open source
+* Desenvolver soluções de automação cada vez mais robustas
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [www.linkedin.com/in/daniel-machado-8a17712a1](http://www.linkedin.com/in/daniel-machado-8a17712a1)
+* Portfólio: https://portfoliodeni.web.app/
+* E-mail: [daniel.dmachado2854@protonmail.com](mailto:daniel.dmachado2854@protonmail.com)
+
+---
+
+⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.
