@@ -14,7 +14,7 @@ Atualmente concentro meus estudos em Sistemas Operacionais, Segurança Digital e
 * 💻 Desenvolvedor focado em automação e soluções web
 * 🔍 Especialista em Web Scraping e coleta automatizada de dados
 * 🛡️ Estudando Sistemas Operacionais e Segurança Digital
-* 🏢 Estagiário de Infraestrutura de TI na BrasilCenter Comunicações
+* 🏢 Analista de Infraestrutura de TI na Uniodonto - GO
 * 🎓 Graduado em Sistemas de Informação
 
 ---
