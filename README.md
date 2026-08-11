@@ -1,98 +1,126 @@
-# 👋 Olá, eu sou Daniel Machado
-
-### Desenvolvedor | Automação | Segurança Digital | Infraestrutura de TI
-
-Sou apaixonado por tecnologia e por transformar problemas em soluções práticas através da programação. Tenho experiência com desenvolvimento de aplicações, automação de processos e web scraping, além de atuar atualmente na área de infraestrutura de TI.
-
-Atualmente concentro meus estudos em Sistemas Operacionais, Segurança Digital e desenvolvimento de soluções que gerem impacto real para empresas e usuários.
 
 ---
 
-## 🚀 Sobre Mim
-
-* 📍 Goiânia, Goiás - Brasil
-* 💻 Desenvolvedor focado em automação e soluções web
-* 🔍 Especialista em Web Scraping e coleta automatizada de dados
-* 🛡️ Estudando Sistemas Operacionais e Segurança Digital
-* 🏢 Analista de Infraestrutura de TI na Uniodonto - GO
-* 🎓 Graduado em Sistemas de Informação
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 ### Linguagens
 
-* Python
-* Java
-* C#
-* JavaScript
-* SQL
+<div align="left">
 
-### Frameworks e Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Selenium
-* Node.js
-* .NET
-* jQuery
-* Git & GitHub
+</div>
 
-### Áreas de Interesse
+### Frameworks, plataformas e ferramentas
 
-* Segurança Digital
-* Infraestrutura de TI
-* Automação de Processos
-* Web Scraping
-* Sistemas Operacionais
-* Desenvolvimento de Software
+<div align="left">
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 🎯 Áreas de atuação e interesse
+
+```text
+Automação de processos  ████████████████████
+Web scraping            ███████████████████░
+Desenvolvimento web     ██████████████████░░
+Infraestrutura de TI    ██████████████████░░
+Segurança digital       ███████████████░░░░░
+Sistemas operacionais   ███████████████░░░░░
+```
+
+---
+
+## 🚀 Projetos em destaque
 
 ### 🚨 Almass — Alerta de Massivo
 
-Sistema desenvolvido em Python para monitoramento de chamados corporativos.
+Sistema desenvolvido em Python para monitoramento automatizado de chamados corporativos.
 
-A aplicação identifica automaticamente chamados categorizados como massivos dentro da plataforma de Help Desk e envia alertas aos técnicos responsáveis, reduzindo o tempo de resposta e aumentando a eficiência operacional da equipe de suporte.
+A aplicação identifica chamados categorizados como massivos em uma plataforma de Help Desk e envia alertas aos técnicos responsáveis. A solução contribui para reduzir o tempo de resposta e aumentar a eficiência operacional da equipe de suporte.
 
-**Tecnologias utilizadas:**
+**Principais recursos:**
 
-* Python
-* Selenium
-* Automação de Processos
+- Monitoramento automatizado de chamados;
+- Identificação de incidentes massivos;
+- Envio de alertas para a equipe responsável;
+- Redução de tarefas manuais e repetitivas;
+- Apoio ao gerenciamento de incidentes.
+
+**Tecnologias:** `Python` · `Selenium` · `Automação de Processos`
 
 ---
 
 ### 📰 GCJDigital
 
-Portal de notícias desenvolvido integralmente por mim.
+Portal de notícias desenvolvido integralmente por mim e meu primeiro projeto completo utilizando banco de dados.
 
-Este foi meu primeiro projeto completo utilizando banco de dados, permitindo gerenciamento dinâmico de conteúdo, publicação de notícias e estruturação de informações de forma escalável.
+O sistema possibilita o gerenciamento dinâmico de conteúdo, a publicação de notícias e a organização estruturada das informações, oferecendo uma base escalável para evolução do projeto.
 
-**Tecnologias utilizadas:**
+**Principais recursos:**
 
-* Desenvolvimento Web
-* Banco de Dados
-* JavaScript
+- Publicação e gerenciamento de notícias;
+- Conteúdo armazenado em banco de dados;
+- Organização dinâmica das informações;
+- Estrutura preparada para expansão.
 
----
-
-## 📈 Objetivos Atuais
-
-* Aprimorar conhecimentos em Segurança Digital
-* Aprofundar estudos em Sistemas Operacionais
-* Expandir meu portfólio de projetos open source
-* Desenvolver soluções de automação cada vez mais robustas
+**Tecnologias:** `JavaScript` · `Desenvolvimento Web` · `Banco de Dados`
 
 ---
 
-## 📫 Contato
+## 📈 Objetivos atuais
 
-* LinkedIn: [www.linkedin.com/in/daniel-machado-8a17712a1](http://www.linkedin.com/in/daniel-machado-8a17712a1)
-* Portfólio: https://portfoliodeni.web.app/
-* E-mail: [daniel.dmachado2854@protonmail.com](mailto:daniel.dmachado2854@protonmail.com)
+- Aprofundar meus conhecimentos em Segurança Digital;
+- Evoluir meus estudos sobre Sistemas Operacionais;
+- Expandir meu portfólio com projetos open source;
+- Desenvolver automações mais seguras, escaláveis e robustas;
+- Colaborar com outros desenvolvedores;
+- Criar soluções que gerem impacto real para empresas e usuários.
 
 ---
 
-⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Daniel Machado" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=github_dark&locale=pt-br" alt="Linguagens mais utilizadas por Daniel Machado" />
+
+</div>
+
+> As estatísticas consideram apenas os repositórios públicos analisados pelo serviço e não representam necessariamente todo o meu conhecimento técnico.
+
+---
+
+## 📫 Entre em contato
+
+Se você procura ajuda com **automação de processos, web scraping, desenvolvimento de aplicações ou soluções de TI**, será um prazer conversar.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-machado-8a17712a1)
+- 🌐 [Portfólio](https://portfoliodeni.web.app/)
+- ✉️ [E-mail](mailto:daniel.dmachado2854@protonmail.com)
+
+<div align="center">
+
+### Vamos transformar ideias e problemas em soluções eficientes.
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=2f81f7&style=for-the-badge&label=VISITAS+AO+PERFIL)
+
+⭐ Sempre aberto a aprender, colaborar e compartilhar conhecimento.
+
+</div>
