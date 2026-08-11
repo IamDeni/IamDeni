@@ -1,47 +1,7 @@
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Frameworks, plataformas e ferramentas
-
-<div align="left">
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🎯 Áreas de atuação e interesse
-
-```text
-Automação de processos  ████████████████████
-Web scraping            ███████████████████░
-Desenvolvimento web     ██████████████████░░
-Infraestrutura de TI    ██████████████████░░
-Segurança digital       ███████████████░░░░░
-Sistemas operacionais   ███████████████░░░░░
-```
+README.md
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -50,46 +10,58 @@ Sistemas operacionais   ███████████████░░░�
 ### 🚨 Almass — Alerta de Massivo
 
 Sistema desenvolvido em Python para monitoramento automatizado de chamados corporativos.
+Sistema desenvolvido em Python para o monitoramento automatizado de chamados corporativos.
 
 A aplicação identifica chamados categorizados como massivos em uma plataforma de Help Desk e envia alertas aos técnicos responsáveis. A solução contribui para reduzir o tempo de resposta e aumentar a eficiência operacional da equipe de suporte.
+A aplicação identifica chamados categorizados como massivos em uma plataforma de Help Desk e envia alertas aos técnicos responsáveis. A solução ajuda a reduzir o tempo de resposta e melhora a eficiência operacional da equipe de suporte.
 
 **Principais recursos:**
+**Principais funcionalidades:**
 
 - Monitoramento automatizado de chamados;
 - Identificação de incidentes massivos;
 - Envio de alertas para a equipe responsável;
+- Envio de alertas à equipe responsável;
 - Redução de tarefas manuais e repetitivas;
 - Apoio ao gerenciamento de incidentes.
 
 **Tecnologias:** `Python` · `Selenium` · `Automação de Processos`
 
 ---
+**Tecnologias:** Python, Selenium e automação de processos.
 
 ### 📰 GCJDigital
 
 Portal de notícias desenvolvido integralmente por mim e meu primeiro projeto completo utilizando banco de dados.
 
 O sistema possibilita o gerenciamento dinâmico de conteúdo, a publicação de notícias e a organização estruturada das informações, oferecendo uma base escalável para evolução do projeto.
+O sistema permite o gerenciamento dinâmico de conteúdo, a publicação de notícias e a organização estruturada das informações, oferecendo uma base preparada para a evolução do projeto.
 
 **Principais recursos:**
+**Principais funcionalidades:**
 
 - Publicação e gerenciamento de notícias;
 - Conteúdo armazenado em banco de dados;
+- Armazenamento de conteúdo em banco de dados;
 - Organização dinâmica das informações;
 - Estrutura preparada para expansão.
 
 **Tecnologias:** `JavaScript` · `Desenvolvimento Web` · `Banco de Dados`
+**Tecnologias:** JavaScript, desenvolvimento web e banco de dados.
 
 ---
 
-## 📈 Objetivos atuais
+## 🎯 Áreas de interesse
 
-- Aprofundar meus conhecimentos em Segurança Digital;
-- Evoluir meus estudos sobre Sistemas Operacionais;
-- Expandir meu portfólio com projetos open source;
-- Desenvolver automações mais seguras, escaláveis e robustas;
-- Colaborar com outros desenvolvedores;
-- Criar soluções que gerem impacto real para empresas e usuários.
+- Segurança Digital;
+- Infraestrutura de TI;
+- Automação de Processos;
+- Web Scraping;
+- Sistemas Operacionais;
+- Desenvolvimento de Software.
+
+---
+
 
 ---
 
@@ -102,6 +74,7 @@ O sistema possibilita o gerenciamento dinâmico de conteúdo, a publicação de 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=github_dark&locale=pt-br" alt="Linguagens mais utilizadas por Daniel Machado" />
 
 </div>
+## 📫 Contato
 
 > As estatísticas consideram apenas os repositórios públicos analisados pelo serviço e não representam necessariamente todo o meu conhecimento técnico.
 
@@ -124,3 +97,4 @@ Se você procura ajuda com **automação de processos, web scraping, desenvolvim
 ⭐ Sempre aberto a aprender, colaborar e compartilhar conhecimento.
 
 </div>
+> ⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.
