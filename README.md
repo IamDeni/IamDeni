@@ -1,3 +1,67 @@
+# 👋 Olá, eu sou Daniel Machado
+<div align="center">
+
+# Daniel Machado
+
+### Desenvolvedor Python | Automação de Processos | Web Scraping | Infraestrutura de TI
+
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Transformando+tarefas+manuais+em+automa%C3%A7%C3%B5es;Criando+solu%C3%A7%C3%B5es+com+Python+e+Selenium;Coletando+e+organizando+dados+da+web;Tecnologia+aplicada+a+problemas+reais)](https://git.io/typing-svg)
+
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2F81F7&width=720&lines=Desenvolvedor+e+Analista+de+Infraestrutura;Automa%C3%A7%C3%A3o+de+Processos+com+Python;Web+Scraping+e+Solu%C3%A7%C3%B5es+Web;Estudando+Seguran%C3%A7a+Digital)](https://git.io/typing-svg)
+Desenvolvo soluções que **reduzem tarefas repetitivas, coletam e organizam dados** e melhoram processos operacionais.
+
+Desenvolvedor e Analista de Infraestrutura de TI, apaixonado por transformar problemas reais em soluções práticas por meio da tecnologia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Machado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-machado-8a17712a1)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_projetos-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfoliodeni.web.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:daniel.dmachado2854@protonmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Machado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-machado-8a17712a1)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://portfoliodeni.web.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-Enviar_mensagem-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:daniel.dmachado2854@protonmail.com)
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+## 👨‍💻 Perfil profissional
+
+Sou graduado em **Sistemas de Informação** e atualmente trabalho como **Analista de Infraestrutura de TI na Uniodonto Goiás**.
+Sou graduado em **Sistemas de Informação** e trabalho como **Analista de Infraestrutura de TI na Uniodonto Goiás**. Minha experiência combina desenvolvimento de software com a visão prática de quem atua diariamente em um ambiente corporativo.
+
+Minha experiência reúne desenvolvimento de aplicações, automação de processos, web scraping e infraestrutura de TI. Gosto de criar ferramentas que reduzam tarefas repetitivas, melhorem processos internos e ofereçam resultados práticos para empresas e usuários.
+Tenho foco em **Python, automação de processos, web scraping e soluções web**. Meu objetivo é transformar atividades manuais e demoradas em fluxos mais rápidos, confiáveis e fáceis de acompanhar.
+
+Atualmente, estou aprofundando meus conhecimentos em **Sistemas Operacionais**, **Segurança Digital** e no desenvolvimento de automações mais seguras e robustas.
+
+- 📍 Goiânia, Goiás — Brasil
+- 💼 Analista de Infraestrutura de TI
+- 🎓 Graduado em Sistemas de Informação
+- 🐍 Desenvolvimento e automação com Python
+- 🔍 Web scraping e tratamento automatizado de dados
+- 🌐 Desenvolvimento de aplicações e soluções web
+- 🐍 Desenvolvimento de scripts e automações com Python
+- 🌐 Automação de navegadores com Selenium
+- 🔎 Coleta, tratamento e organização de dados públicos
+- 📊 Exportação de resultados para CSV, Excel e bancos de dados
+- 🖥️ Experiência prática em infraestrutura e suporte corporativo
+- 🤝 Disponível para projetos freelance e colaborações
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+## 💼 Como posso ajudar
+
+| Serviço | Entrega |
+| --- | --- |
+| **Automação de processos** | Scripts para reduzir tarefas manuais e repetitivas |
+| **Web scraping** | Coleta estruturada de dados públicos disponíveis na web |
+| **Automação web** | Preenchimento de formulários, consultas e rotinas com Selenium |
+| **Tratamento de dados** | Limpeza, organização e exportação para CSV, Excel ou banco de dados |
+| **Monitoramento e alertas** | Soluções para acompanhar eventos e enviar notificações |
+| **Manutenção de scripts** | Correção, melhoria e documentação de automações existentes |
+
+> Todo projeto é desenvolvido de acordo com o escopo, as permissões de acesso e os termos de uso das plataformas envolvidas.
+
 ---
 
 ## 🛠️ Tecnologias
@@ -62,57 +126,3 @@ O sistema permite o gerenciamento dinâmico de conteúdo, a publicação de not�
 **Aprendizado:** foi meu primeiro projeto completo com banco de dados e consolidou minha experiência no desenvolvimento de aplicações web dinâmicas.
 
 - Publicação e gerenciamento de notícias;
-- Armazenamento de conteúdo em banco de dados;
-- Organização dinâmica das informações;
-- Estrutura preparada para expansão.
-`JavaScript` `Desenvolvimento Web` `Banco de Dados`
-
-**Tecnologias:** JavaScript, desenvolvimento web e banco de dados.
----
-
----
-## 📚 Em evolução
-
-## 🎯 Áreas de interesse
-Atualmente, direciono meus estudos para:
-
-- Segurança Digital;
-- Infraestrutura de TI;
-- Automação de Processos;
-- Web Scraping;
-- Sistemas Operacionais;
-- Desenvolvimento de Software.
-- Arquitetura e confiabilidade de automações;
-- Boas práticas de desenvolvimento de software;
-- Projetos open source.
-
----
-
-## 📈 Objetivos atuais
-## 📫 Vamos conversar?
-
-- Aprofundar meus conhecimentos em Segurança Digital;
-- Evoluir meus estudos sobre Sistemas Operacionais;
-- Expandir meu portfólio com projetos open source;
-- Desenvolver automações mais seguras, escaláveis e robustas;
-- Colaborar com outros desenvolvedores;
-- Criar soluções que gerem impacto real para empresas e usuários.
-Precisa automatizar uma tarefa, coletar dados públicos ou melhorar um processo operacional? Entre em contato para avaliarmos a necessidade e definirmos uma solução adequada.
-
----
-- 💼 **LinkedIn:** [Daniel Machado](https://www.linkedin.com/in/daniel-machado-8a17712a1)
-- 🌐 **Portfólio:** [portfoliodeni.web.app](https://portfoliodeni.web.app/)
-- ✉️ **E-mail:** [daniel.dmachado2854@protonmail.com](mailto:daniel.dmachado2854@protonmail.com)
-
-## 📫 Contato
-<div align="center">
-
-Se você procura ajuda com **automação de processos, web scraping, desenvolvimento de aplicações ou soluções de TI**, será um prazer conversar.
-**Tecnologia aplicada com foco em eficiência, clareza e resultado.**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-machado-8a17712a1)
-- 🌐 [Portfólio](https://portfoliodeni.web.app/)
-- ✉️ [E-mail](mailto:daniel.dmachado2854@protonmail.com)
-
-> ⭐ Sempre aberto para aprender, colaborar em projetos e compartilhar conhecimento.
-</div>
